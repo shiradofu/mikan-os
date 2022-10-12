@@ -1,0 +1,8 @@
+edk2
+
+*.o
+*.efi
+
+disk.img
+
+.ccls-cache

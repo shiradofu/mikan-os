@@ -1,0 +1,3 @@
+clang
+-I./edk2/MdePkg/Include
+-I./edk2/MdePkg/Library
